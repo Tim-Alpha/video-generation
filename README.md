@@ -58,7 +58,3 @@ This assignment aims to replicate and reimagine these functionalities.
 
 ### 📚 References  
 - [ReelFarm - Automated Marketing](#)  
-- [Starter Story](#)  
-- [Popular AI Tools](#)  
-- [SendShort](#)  
-- [X (formerly Twitter)](#)
