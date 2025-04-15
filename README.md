@@ -1,4 +1,4 @@
-# AI Generation Internship Assignment  
+# Video Generation Internship Assignment  
 ## Enhancing User-Generated Content (UGC) Video Automation
 
 ### 📌 Objective  
